@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "scrum-videos",
+  "private_key_id": "135195b74aac3caf55dc2157c329c153b44b1e00",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC1oYM0OPlv4KLp\nCR2lY7NXC0EXi9ljB35/wvy0yKJrqBYcm4rQU7GMgDODtVdHIWjcpLMN68S6BE9N\nlpZCrU7kz8nrgMGutzzV1dwRsBkNHxh6r0Gfe+Kv0oWKn/J/tqjKB1hHILPc+Lsk\n0BLElVlltb+u9qHGu1i+j/yMMQgHU8hfozTBLmtGSGwM5/pYCCVcGwkxhQOfNRoZ\nLp9cVJyG108ql67AZgstmnXo9hQiUK7qomqgBtLnIIEnCast4pzi5/Ag8leiwsJB\n+3JVmtAWIIg3AMO1et3UHSsav7uIPW/6a4yJf6MO1eTNFlzE/GMI+TKKMu5Kfdi4\nPU+R6dSnAgMBAAECggEAT2Fr6M5/wbQhLwzzXn2w+zlpdOODmkLDuA3diRto1PlM\n1KrsI7l4TwoWuZjvMKC65je7I7nnrE7G5AeM205IPTtNKfaHb5cY6PIDMN3QTQpK\nlg/zc8Leo240PA5EmymXIljMbaWuxkQU8nVXxn/pZsjkohCbSrJFil9+hjzFoAFw\nzcHn7EYOSRIMM6XYswZaY49dmNdTsgSHiVwyV6Rr9cnzAkgxoPBB6GAdRODngTAB\nY61d3iYeyi2jE3+K/krVZkZbCIyJtIy7EKY58O8FNBYS88e+4d2lV1CaWFFkVI63\n9JLo9VfrSsmTs4B5mXYFQGNeJ27X/3ryW1jEAZNnIQKBgQD7UhL8DI1KG/gsiK55\naRuejGnLAr38/0Xk9OxoXViZDASDup0L0hRIRor3DUJyUgj56H6s08/OlzCwa7Hb\nOce+DlOMfzwfXGIsyfDcG9Kjd+CR0dL6KiJiIgFDzIiNdXfFXE22l4VbWFkMBITV\nX43yXmC8bbaVNJiWVcS/b0RkhwKBgQC5A0K+K/G/aEaqFY+sjP4KepI9qHPRxKc4\n6hN/8Wxo2Z0cnfm3dtqOJEnbnUrMLqiK6Ote2OJhlq4LZeouhoixCETZZ87OK19U\n4HH904+fsgf3jvYN6/VLYguDxC21hpCgC852rgU7bjWJdKME6hEZ4aj6XX15ikZT\nLjlg+N824QKBgFQU43EcKfEPZnpPyD+qYKksxQA8jJ+mMBYnsyg/grLBiIkh2ATq\nZgrAPyHkd8STmZkypZ7gxneRsaJ0hW6Y6DC3zlAFCXJckCP38/NQA6rZInLmxjUX\n/6ThR5cNSOo60LVg6kcabm1fI3uXz3ErpOvfk3G3KwzEKgCx9T8u1KzlAoGAKZmi\nGECpSvCXcwcGFzZcqN6Go3aNFE2zjAiV+d6/EZRcz2J2E9qVqgBe2xKzDtYu740P\n33PE80x+NfHkhjGZ6rSBRqEgzxrRhLQy7W/0i2Pshq2OhfLYZOrWy/oAjSCExHfj\nJKxcYNCXGSEwxpoa3kbvR9xdqkZ9KZbrL/LFvgECgYEA25lbcoeo9Q8E+EWX6FLE\nWnXlqIT16Ex3B8zHdc4W4lBJqFU4EE1OuIoMLluarao+9VzUzhs9224NnVHJR+MB\nczglqZnNHldFYF+MqyzpSLjH9ijhn2wdA7TEh4ETExD3If3iG1zeb855mQqE3OaW\ndS7BSpqY+Y46GFeuZs0dAcw=\n-----END PRIVATE KEY-----\n",
+  "client_email": "videotesting@scrum-videos.iam.gserviceaccount.com",
+  "client_id": "116128600274954529241",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/videotesting%40scrum-videos.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
